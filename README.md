@@ -5,4 +5,4 @@ Three task modules have to be completed-
 2. Data Insights- Prepare a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off. Please advise what steps you would take. 
 3. Data Insights and presentation- Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).  Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.  
 
-Tools used- Advance Excel, Tableau and Power Point.
+Tools used- Advanced Excel, Tableau and Power Point.
